@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<aquariumInfo>
+	<aquarium>
+			<fishes>
+				<rayFinned>Danio</rayFinned>
+				<lobeFinned>Protopter</lobeFinned>
+			</fishes>
+			<amphibians>
+				<tailed>Axolotl</tailed>
+				<tailless>Spur frog</tailless>
+				<legless>Anaconda</legless>
+			</amphibians>
+			<accessories>
+				<corals>Laguna</corals>
+				<feeder>Tetra</feeder>
+			</accessories>
+			<totalPrice>528</totalPrice>
+	</aquarium>
+</aquariumInfo>

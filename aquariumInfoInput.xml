@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<aquariumInfo>
+	<dataName>Aquarium Info</dataName>
+	<fishes>
+		<bonyFishes>
+			<rfFishes>
+				<fish>
+					<type>Danio</type>
+					<colour>Pink</colour>
+					<cost>2</cost>
+				</fish>
+			</rfFishes>
+			<lfFishes>
+				<fish>
+					<type>Protopter</type>
+					<colour>Gray</colour>
+					<cost>16</cost>
+				</fish>
+			</lfFishes>
+		</bonyFishes>
+	</fishes>
+	<amphibians>
+		<tailed>
+			<amphibian>
+				<type>Axolotl</type>
+				<colour>Pink</colour>
+				<cost>73</cost>
+			</amphibian>
+		</tailed>
+		<tailless>
+			<amphibian>
+				<type>Spur frog</type>
+				<colour>White</colour>
+				<cost>20</cost>
+			</amphibian>
+		</tailless>
+		<legless>
+			<amphibian>
+				<type>Anaconda</type>
+				<colour>Green</colour>
+				<cost>230</cost>
+			</amphibian>
+		</legless>
+	</amphibians>
+	<accessories>
+		<corals>
+			<accessory>
+				<brand>Laguna</brand>
+				<cost>24</cost>
+				<amount>3</amount>
+			</accessory>
+		</corals>
+		<feeder>
+			<accessory>
+				<brand>Tetra</brand>
+				<cost>163</cost>
+				<amount>1</amount>
+			</accessory>
+		</feeder>
+	</accessories>
+</aquariumInfo>
